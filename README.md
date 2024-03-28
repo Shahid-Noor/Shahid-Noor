@@ -3,7 +3,10 @@
 
 - 🔭 I’ve Worked on [All Tools App](https://play.google.com/store/apps/details?id=com.alltools.smarttoolsapp)
 
-- 👯 I’ve worked on [Font Style Keyboard App](https://play.google.com/store/apps/details?id=com.fontkeyboard.stylishfonts.fontmaker.island)
+- 🔭 I’ve worked on [Font Style Keyboard App](https://play.google.com/store/apps/details?id=com.fontkeyboard.stylishfonts.fontmaker.island)
+- and alot other apps.
+- 👯 I’m looking to collaborate on Open Source Projects
+- 👨‍💻 All of my projects are available at repos
 
 - 💬 Ask me about **Flutter, Dart, Java**
 
